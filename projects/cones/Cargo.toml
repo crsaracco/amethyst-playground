@@ -1,0 +1,10 @@
+[package]
+name = "cones"
+version = "0.1.0"
+authors = ["Charles Saracco <crsaracco@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+# amethyst = {path = "/home/crs/programming/amethyst/amethyst/", features = ["vulkan"]}
+amethyst = {git = "https://github.com/amethyst/amethyst.git", features = ["vulkan"]}
+nalgebra = "*"
