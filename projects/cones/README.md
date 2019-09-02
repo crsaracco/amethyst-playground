@@ -6,4 +6,4 @@ This project started as a clone of Amethyst's [material](https://github.com/amet
 
 Demo (YouTube):
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zli90-39Ft4/0.jpg)](https://www.youtube.com/watch?v=zli90-39Ft4)
+[![Cones](https://img.youtube.com/vi/zli90-39Ft4/0.jpg)](https://www.youtube.com/watch?v=zli90-39Ft4)
